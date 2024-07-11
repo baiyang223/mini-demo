@@ -1,0 +1,15 @@
+{
+  "name": "videomanage",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vant/weapp": "^1.11.6",
+    "copy-webpack-plugin": "5.1.1"
+  }
+}
